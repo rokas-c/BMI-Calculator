@@ -1,5 +1,16 @@
 # BMI ir Kalorijų Skaičiuotuvas
 
+<div align="center">
+  <p><strong>Paprastas ir patogus sveikatos skaičiuotuvas</strong></p>
+  
+  [![C#](https://img.shields.io/badge/C%23-.NET%20Framework-blue.svg)](https://dotnet.microsoft.com/)
+  [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue.svg)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)
+  [![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)](https://www.microsoft.com/windows)
+  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+</div>
+
+## Apie programą
+
 Paprastas ir patogus sveikatos skaičiuotuvas, sukurtas C# programavimo kalba. Programa leidžia apskaičiuoti kūno masės indeksą (BMI), optimalų svorį pagal ūgį ir kasdienį kalorijų poreikį.
 
 ## Funkcijos
@@ -9,12 +20,12 @@ Paprastas ir patogus sveikatos skaičiuotuvas, sukurtas C# programavimo kalba. P
 - **Optimalaus svorio rekomendacijos** - parodo rekomenduojamą svorio diapazoną pagal ūgį
 - **Lietuviška sąsaja** - visa programa veikia lietuvių kalba
 
-### Nuotraukos
+## Ekrano nuotraukos
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1749334336/Screenshot_2025-06-08_011102_wspcfo.png" alt="Home Screen" width="250"/>
-  <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1749334339/Screenshot_2025-06-08_011117_euskm2.png" alt="Gameplay" width="250"/>
-  <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1749334340/Screenshot_2025-06-08_011132_mt1vjv.png" alt="Progress Tracking" width="250"/>
+  <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1749334336/Screenshot_2025-06-08_011102_wspcfo.png" alt="Pagrindinis langas" width="250"/>
+  <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1749334339/Screenshot_2025-06-08_011117_euskm2.png" alt="BMI skaičiuotuvas" width="250"/>
+  <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1749334340/Screenshot_2025-06-08_011132_mt1vjv.png" alt="Rezultatų peržiūra" width="250"/>
 </div>
 
 ## Sistemos reikalavimai
@@ -23,7 +34,8 @@ Paprastas ir patogus sveikatos skaičiuotuvas, sukurtas C# programavimo kalba. P
 - Windows 10/11
 - Minimaliai 50 MB laisvos vietos diske
 
-### Panaudotos technologijos
+## Panaudotos technologijos
+
 - C# .NET Framework
 - Windows Forms (WinForms)
 
@@ -34,4 +46,4 @@ Paprastas ir patogus sveikatos skaičiuotuvas, sukurtas C# programavimo kalba. P
 ## Kontaktai
 
 Jei turite klausimų ar pasiūlymų, galite susisiekti:
-- El. paštas: developer@example.com
+- El. paštas: chmieliauskas7@gmail.com
