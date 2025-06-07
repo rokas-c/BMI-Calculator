@@ -13,8 +13,8 @@ Paprastas ir patogus sveikatos skaičiuotuvas, sukurtas C# programavimo kalba. P
 
 <div align="center">
   <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1749334336/Screenshot_2025-06-08_011102_wspcfo.png" alt="Home Screen" width="250"/>
-  <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1745938808/Screenshot_2025-04-29_180004_x4ob56.jpg" alt="Gameplay" width="250"/>
-  <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1745938772/Screenshot_2025-04-29_175925_cy44ff.jpg" alt="Progress Tracking" width="250"/>
+  <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1749334339/Screenshot_2025-06-08_011117_euskm2.png" alt="Gameplay" width="250"/>
+  <img src="https://res.cloudinary.com/dknalmer3/image/upload/v1749334340/Screenshot_2025-06-08_011132_mt1vjv.png" alt="Progress Tracking" width="250"/>
 </div>
 
 ## Sistemos reikalavimai
