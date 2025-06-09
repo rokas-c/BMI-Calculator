@@ -1,0 +1,40 @@
+Svoris	Ūgis	BMI	Kalorijų poreikis
+90	2.3	17.01	2160.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+13	23	0.02	312.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+12	800	0.00	288.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+110	1.86	31.80	2640.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+100	2	25.00	2400.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+100	2.12	22.25	2400.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+0	0	NaN	0.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+78	1.77	24.90	1872.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+785	1.77	250.57	18840.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+78.5	1.77	25.06	1884.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+80	1.98	20.41	1920.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+80	1.98	20.41	1920.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+90	1.98	22.96	2160.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+80	1.98	20.41	1920.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+76	184	0.00	1824.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+76	184	0.00	1824.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+76	184	0.00	1824.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+76	184	0.00	1824.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+76	1.84	22.45	1824.00
+Svoris	Ūgis	BMI	Kalorijų poreikis
+76	1.84	22.45	1824.00
